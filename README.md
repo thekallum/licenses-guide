@@ -1,6 +1,16 @@
-# 📜 Guia Completo de Licenças de Software
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/6090/6090957.png" width="300" alt="Software License Scroll">
 
-> Um guia detalhado sobre todas as principais licenças de software, suas características, permissões e restrições.
+# Guia de Licenças de Software
+
+![Status](https://img.shields.io/badge/Status-Completo-success?logo=github&style=for-the-badge)
+![Tópicos](https://img.shields.io/badge/Tópicos-GPL%2C%20MIT%2C%20Apache%2C%20BSD%20e%20mais-blue?style=for-the-badge)
+![Linguagem](https://img.shields.io/badge/Linguagem-Português-informational?style=for-the-badge)
+
+Um guia **detalhado e prático** sobre as licenças de software mais importantes, suas **permissões, restrições** e implicações legais para desenvolvedores e usuários.
+
+[**Reportar um Erro/Sugestão**](https://github.com/thekallum/licenses-guide/issues)
+</div>
 
 ---
 
